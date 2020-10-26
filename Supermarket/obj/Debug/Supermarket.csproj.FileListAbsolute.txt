@@ -1,0 +1,10 @@
+C:\Vedran\CC\Supermarket\Supermarket\Supermarket\bin\Debug\Supermarket.exe.config
+C:\Vedran\CC\Supermarket\Supermarket\Supermarket\bin\Debug\Supermarket.exe
+C:\Vedran\CC\Supermarket\Supermarket\Supermarket\bin\Debug\Supermarket.pdb
+C:\Vedran\CC\Supermarket\Supermarket\Supermarket\obj\Debug\Supermarket.csprojAssemblyReference.cache
+C:\Vedran\CC\Supermarket\Supermarket\Supermarket\obj\Debug\Supermarket.Form1.resources
+C:\Vedran\CC\Supermarket\Supermarket\Supermarket\obj\Debug\Supermarket.Properties.Resources.resources
+C:\Vedran\CC\Supermarket\Supermarket\Supermarket\obj\Debug\Supermarket.csproj.GenerateResource.cache
+C:\Vedran\CC\Supermarket\Supermarket\Supermarket\obj\Debug\Supermarket.csproj.CoreCompileInputs.cache
+C:\Vedran\CC\Supermarket\Supermarket\Supermarket\obj\Debug\Supermarket.exe
+C:\Vedran\CC\Supermarket\Supermarket\Supermarket\obj\Debug\Supermarket.pdb
